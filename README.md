@@ -10,7 +10,7 @@
  -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung22&hide=issues&show_icons=true)
 
 
 
