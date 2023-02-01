@@ -4,6 +4,18 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoung22&layout=compact"><br><br>
 ![Allie's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung22&theme=vue&show_icons=true)
 
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/$seoyoung22">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=$seoyoung22&layout=compact&show_icons=$True&show_owner=$True&hide_title=${타이틀 가리기}&theme=$nord&hide=$css" />
+  </a>
+</p>
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/$seoyoung22">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=$seoyoung22&hide_title=$ture&show_icons=$true&include_all_commits=$true&theme=$nord" />
+  </a>
+</p>
 
 
 
