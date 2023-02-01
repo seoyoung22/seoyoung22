@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&width=100&text=eoyoung's%20GitHub!&fontColor=363636&color=0:c2e59c,100:64b3f4)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&width=100&text=Seoyoung's%20GitHub!&fontColor=363636&color=0:c2e59c,100:64b3f4)
 
 <h3 align="center"> 🙌 HELLO WORLD! 🙌</h3>
 <h5 align="center"> 안녕하세요! "개발 & 기획" 두 마리 토끼 모두 잡고싶은 개발자, 서영입니다. </h5>
