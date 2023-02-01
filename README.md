@@ -2,10 +2,9 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoung22&layout=compact"><br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung22&theme=vue&show_icons=true)
+![Allie's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung22&theme=vue&show_icons=true)
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=seoyoung22&show_icons=true&theme=dark>
- -->
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:c2e59c,100:64b3f4&section=footer)
