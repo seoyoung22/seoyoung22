@@ -1,5 +1,11 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Allie's%20Github!&fontSize=90)
+
+
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+
+
 <!--
 **seoyoung22/seoyoung22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
