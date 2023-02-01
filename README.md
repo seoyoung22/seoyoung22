@@ -5,8 +5,33 @@
 <h3 align="center"> 🙌 HELLO WORLD! 🙌  </h3>
   
 <h4 align="center"> 안녕하세요! "개발 & 기획" 두 마리 토끼 모두 잡고싶은 개발자, 서영입니다. </h4><br>
+  
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
+<p align="center"> Techs that I've used at least once </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
+  
+</p>
+<br>
+<!-- 
+  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp
+ -->
 
 
 
