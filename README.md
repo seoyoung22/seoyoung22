@@ -6,15 +6,9 @@
 <h3 align="center">💡 My Git Stats 💡</h3>
 ![Allie's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung22&theme=vue&show_icons=true)
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
 
 
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/$seoyoung22">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=$seoyoung22&hide_title=$ture&show_icons=$true&include_all_commits=$true&theme=$nord" />
-  </a>
-</p>
+
 
 
 
