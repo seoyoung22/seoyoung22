@@ -5,8 +5,9 @@
 
 <h3 align="center">💡 My Git Stats 💡</h3>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung22&include_all_commits=true&theme=vue)
-![Allie's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung22&theme=vue&show_icons=true)
 
+<!-- ![Allie's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoung22&theme=vue&show_icons=true)
+ -->
 
 
 
