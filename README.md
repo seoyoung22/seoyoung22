@@ -2,7 +2,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoyoung22&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=seoyoung22&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=seoyoung22&theme=vue&show_icons=true>
 
 
 
