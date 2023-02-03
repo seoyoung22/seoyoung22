@@ -22,10 +22,21 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white"/></a>&nbsp
+  <br>
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
+
+  
   
 </p>
 <br>
