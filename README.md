@@ -1,5 +1,6 @@
 <div align="center">
 
+<br>
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&width=100&text=Seoyoung's%20GitHub!&fontColor=363636&color=0:c2e59c,100:64b3f4)
 
 <h3 align="center"> 🙌 HELLO WORLD! 🙌  </h3>
